@@ -2,13 +2,14 @@
 Communicates with all the Accelerometer connected to the body
 
 Software:
-![Screenshot (260)](https://user-images.githubusercontent.com/74640529/167882953-1bdc933f-3c6a-4f02-b95a-51990364a1cd.png)
+
+<img src="https://user-images.githubusercontent.com/74640529/167882953-1bdc933f-3c6a-4f02-b95a-51990364a1cd.png" width ="30%" height="30%">
 
 Emdedded :
-![Screenshot (387)](https://user-images.githubusercontent.com/74640529/167881387-6596ce23-4dcf-4b51-8487-026e5ee060de.png)
 
-![Screenshot (378)](https://user-images.githubusercontent.com/74640529/167881358-2e5a85e4-bed6-4fd0-97df-4d715ac52842.png)
+<img src="https://user-images.githubusercontent.com/74640529/167881387-6596ce23-4dcf-4b51-8487-026e5ee060de.png" width ="30%" height="30%">
 
+<img src="https://user-images.githubusercontent.com/74640529/167881358-2e5a85e4-bed6-4fd0-97df-4d715ac52842.png" width ="30%" height="30%">
 
 Demo Video #1: https://drive.google.com/file/d/1K8rukM-WBUrdklDa2gSfIY9A8WBKTnue/view?usp=sharing                 
 Demo Video #2(Yoga Instructor): https://drive.google.com/file/d/18gQjPVl7FKEpDb9RQFc4tmdRfVHFB7mp/view?usp=sharing
