@@ -1,0 +1,29 @@
+v1.08
+- Removed Receiver class in due to inconsistencies
+
+v1.04
+- Finalized the Pose Generator
+
+v1.01
+Verifier:
+- Added OUTPUT_PIN
+* Receiver.cpp:
+	Updated char[] usage to actually work
+	Added '&' to radio.read()
+	Added float getValues() that returns float
+	
+* SearchTree.cpp
+	Added search() function that incorporates error
+	Added preprocessing values
+	
+Body:
+* Transmitter.cpp:
+	Added '&' to radio.write()
+	
+	
+/data/swf/data/koooonsoft/kung-fu-girl/kung-fu-girl.swf
+
+
+
+
+
